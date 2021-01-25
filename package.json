@@ -25,6 +25,8 @@
     "tailwindcss": "^2.0.2"
   },
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "eslint-config-react-app": "^6.0.0",
+    "prettier": "^2.2.1",
+    "stylelint-config-standard": "^20.0.0"
   }
 }
